@@ -6,4 +6,6 @@
 
 - 👋 How to reach me ... 
 
-tjwalkr3@gmail.com
+Email: tjwalkr3@gmail.com
+
+Discord: 
