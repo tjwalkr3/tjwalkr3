@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @tjwalkr3
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🦊 Hi, I’m @tjwalkr3, a Computer Science student, Amateur Radio Operator, and Pyromaniac.  
 
-<!---
-tjwalkr3/tjwalkr3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Machine Learning, Web Development, Game Development (particularly web-based games), Electrical Engineering, and Internet of Things.
+
+- 🐉 I’m currently learning Javascript, (hopefully) PHP, and Circuit Prototyping / PCB Design.
+
+- 👋 How to reach me ...
+     • Email:  tjwalkr3@gmail.com
