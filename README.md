@@ -4,5 +4,5 @@
 
 - 🐉 I’m currently learning Javascript, (hopefully) PHP, and Circuit Prototyping / PCB Design.
 
-- 👋 How to reach me ...
--Email:  tjwalkr3@gmail.com
+- 👋 How to reach me ... 
+tjwalkr3@gmail.com
