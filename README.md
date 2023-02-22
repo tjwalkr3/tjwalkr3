@@ -2,4 +2,4 @@
 
 - 👀 I’m interested in Machine Learning, Web Development, Game Development (particularly web-based games), Electrical Engineering, and Internet of Things.
 
-- 🐉 I’m currently learning Javascript, (hopefully) PHP, and Circuit Prototyping / PCB Design.
+- 🐉 I’m currently learning Javascript, C#, and Circuit Prototyping / PCB Design.
